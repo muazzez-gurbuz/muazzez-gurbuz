@@ -27,6 +27,7 @@ I'm transitioning into cybersecurity after more than 11 years of experience in f
 I'm documenting my hands-on cybersecurity labs and learning projects, including:
 
 - [Sophos Endpoint Detection & Response (EDR)](https://github.com/muazzez-gurbuz/sophos-edr-security-project) — Lab deployment, policy configuration, and simulated incident investigation
+- [FortiGate Firewall — Network Segmentation & Security Policy Implementation](https://github.com/muazez-gurbuz/fortigate-firewall-security-project) — 2-week hands-on lab covering network segmentation, least-privilege policies, VPN, Virtual IP/port forwarding, and layered security controls.
 * SIEM investigations and Splunk exercises
 * Network analysis and security labs
 
