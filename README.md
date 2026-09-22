@@ -26,7 +26,7 @@ I'm transitioning into cybersecurity after more than 11 years of experience in f
 
 I'm documenting my hands-on cybersecurity labs and learning projects, including:
 
-* **- [Sophos Endpoint Detection & Response (EDR)](https://github.com/muazze-gurbuz/sophos-edr-security-project) — lab deployment, policy configuration, and simulated incident investigation
+- [Sophos Endpoint Detection & Response (EDR)](https://github.com/muazzez-gurbuz/sophos-edr-security-project) — Lab deployment, policy configuration, and simulated incident investigation
 * SIEM investigations and Splunk exercises
 * Network analysis and security labs
 
