@@ -26,10 +26,11 @@ I'm transitioning into cybersecurity after more than 11 years of experience in f
 
 I'm documenting my hands-on cybersecurity labs and learning projects, including:
 
-- [Sophos Endpoint Detection & Response (EDR)](https://github.com/muazzez-gurbuz/sophos-edr-security-project) — Lab deployment, policy configuration, and simulated incident investigation
-- [FortiGate Firewall — Network Segmentation & Security Policy](https://github.com/muazzez-gurbuz/fortigate-firewall-security-project) — Least-privilege policies, VPN, and layered security controls
-* SIEM investigations and Splunk exercises
-* Network analysis and security labs
+- [Sophos Endpoint Detection & Response (EDR)](https://github.com/muazzez-gurbuz/sophos-edr-security-project) — lab deployment, policy configuration, and simulated incident investigation
+- [FortiGate Firewall — Network Segmentation & Security Policy](https://github.com/muazzez-gurbuz/fortigate-firewall-security-project) — least-privilege policies, VPN, and layered security controls
+- [Vulnerability Assessment (Nmap & Nessus)](https://github.com/muazzez-gurbuz/nmap-nessus-vulnerability-assessment) — authenticated vs. unauthenticated scanning, CVSS/VPR/EPSS scoring
+- [Linux Penetration Test — Shellshock](https://github.com/muazzez-gurbuz/linux-penetration-test-shellshock) — team project: exploitation, privilege escalation, credential recovery
+- [SIEM Implementation & Threat Detection (Splunk)](https://github.com/muazzez-gurbuz/siem-splunk-threat-detection) — team project: log forwarding, custom SPL detections, MITRE ATT&CK-mapped dashboards
 
 ## 💼 Professional Background
 
